@@ -11,7 +11,13 @@ main {
 	flex-direction: row;
 	justify-content: flex-end;
 }
-
+.social-media-links {
+	display: flex;
+	flex-direction: row;
+}
+.social-media-links a + a {
+	margin-left: 2.5rem;
+}
 .mascot-area img {
 	height: 17rem;
 	width: 13rem;
