@@ -8,7 +8,7 @@ import Instagram from "./assets/imgs/instagram.svg";
 
 function App() {
 	const socialMedia = [
-		{ to: "https://twitter.com/ki_kotoba?s=09", icon: Twitter, alt: "twitter" },
+		{ to: "https://twitter.com/kotoba_no_ki", icon: Twitter, alt: "twitter" },
 		{
 			to: "https://instagram.com/kotoba.noki?utm_medium=copy_link",
 			icon: Instagram,
